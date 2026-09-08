@@ -53,17 +53,34 @@ unfamiliar laguage specific to that domain!
 
 
 
-The specification is outline to accomplish three main things at this point, functional design, comfort of use and rigour of methodology
+The specification is outline to accomplish three main things at this point, functional design, comfort of use and rigour of methodology. As of right now, I feel this split as an akward way to go about it 
+since the project doesnt really work till you have all of the components as a whole
 For each component I beleive should be tackled, i specify a hypothesis of what I beleive should be accomplished and then establish a 
 specified way to go about it. The naming of course is for quick referencing. Because I believe one should keep a good hypothesis strong and short, for some of these components 
-where I beleive necessary I elaborate on the motivation of the hypothesis itself to constrain our thinking on what we are going for and how to go about it
+where I beleive necessary I elaborate on the motivation of the hypothesis itself to constrain our thinking on what we are going for and how to go about it.
+
+
 
 # Functional design
 
 
-## Name: Problem Book Generator (PBG)
-## Specification: Problem Book generator from dataset
-## Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply for the wealth
+
+Project Name: Problem Book Generator (PBG)
+Specification: 
+Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply from the wealth of the AI dataset.
+Elaboration: I suppose a rigorous thing to do would be to discuss what my view of a good problem book with specific exemplary features in the scant few I've tried. Howwever, there may be not much time for that so this will be sparse. Will return with better justification later
+
+
+Let $D_i$ be a dataset representing a finite collection of records over a set of columns $C_i$. W.L.O.G. we initially take $D_i$ to be a CSV dataset, as the representation format is not fundamental to the construction.
+Let \\
+$R = {Q, S , T}$
+such that $D_i$  is a CSV. W.
+
+
+
+### Name: Problem Book Generator (PBG)
+### Specification: Problem Book generator from dataset
+### Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply for the wealth
 of AI datasets
 
 Let D_i be a dataset such that D_i is a csv(W.L.O.G of course, as it is trivial to extend D_i to other data formats) such that
@@ -89,12 +106,25 @@ For each element in Q
 
 # Rigour
 """
-Name: On the Wikipedia
+Name: On the Wikipedia.
+A simple and clever way to determine topics for natural text. I have come to detest throwing AI and semantic relationship tools at everything, just because it can be done and its out there 
+That's part of the reason for creating this specification. By taking the time to outline the clear motivations and what is necessary, one can come up with elegant solutions rather than throwing 
+overly powerful but slower and unncessary solutions at the problem
 Specification: Proper problem topical classification
 Elaboration: Here we concern ourselves with how one should get an automated machine to classify problem from
  natural language text correctly while address the multitudes of forseeable issues that come up
+
+
+
 """
 
+Name: On Filtering the noise
+There are some 
+To this extent I bleive its necessary to clue in the user to evaluate and remove the remaining noise. Our goal is not to be magical but to give a thorougly wholesome final product that the user might 
+be sufficienty pleased with
+There are two kinds of noise, numerical and text.
+It has come to me that numerical noise should be normalized rather than simply occluded as it might itself contain valuable info such as matrices, partial differential equations etc. A possible problem is the messiness and 
+varince of latex getting in the way of properly normalizing this noise. More on that later/
 
 """
 Specification: A user interface so better high level decisions can be made according to taste
@@ -152,17 +182,6 @@ I suppose before one goes on about starting a project one must give clear motiva
 Reverse the AI motvation
 
 A success would like like frequent use of the pdf, highlights. Particulalry one important thing is that its high quality enough that i come back to review previous work time and time again
-
-Project Name: Problem Book Generator (PBG)
-Specification: 
-Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply from the wealth of the AI dataset.
-Elaboration: I suppose a rigorous thing to do would be to discuss what my view of a good problem book with specific exemplary features in the scant few I've tried. Howwever, there may be not much time for that so this will be sparse. Will return with better justification later
-
-
-Let $D_i$ be a dataset representing a finite collection of records over a set of columns $C_i$. W.L.O.G. we initially take $D_i$ to be a CSV dataset, as the representation format is not fundamental to the construction.
-Let \\
-$R = {Q, S , T}$
-such that $D_i$  is a CSV. W.
 
 
 
