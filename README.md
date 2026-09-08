@@ -1,5 +1,7 @@
 ## Introduction
-These past few years have seen the rapid proliferation of all sorts of datasets for every sort of human activity for fulfilling von Neumann's and Alan Turing's dreams, the establishment of machines that think. 
+These past few years have seen the rapid proliferation of all sorts of datasets for every sort of human activity for fulfilling von Neumann's and Alan Turing's dreams. In fact, it was not so much they dreamed it than 
+they firmly beleived it was so. For them, the notion of machines that think was an obvious thing to them and they had simply been born just a little ahead of that time. It took quite a bit longer than they estimated, 
+necessitated by the need of datasets, the collection and creation of them, scraped together from the collective humanities works from all over the internet. 
 In fact, so successful have these efforts been that man no longer doubt if machines can think in the sense of reaching their own sensibilites but how much further can they go in their thinking in assisting themselves 
 in miracles of all sorts of activity. However in this technical project I am not concerned with if the machines can think but the inverse problem. The operator of those machines. 
 I beleive that the fundamentally better the operator is, to whatever degree or domain of activity, the fundamentally more interesting activities they will be able to engage with these machines in. 
