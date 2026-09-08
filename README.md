@@ -67,7 +67,7 @@ where I beleive necessary I elaborate on the motivation of the hypothesis itself
 
 Project Name: Problem Book Generator (PBG)
 Specification: 
-Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply from the wealth of the AI dataset.
+Design Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply from the wealth of the AI dataset.
 Elaboration: I suppose a rigorous thing to do would be to discuss what my view of a good problem book with specific exemplary features in the scant few I've tried. Howwever, there may be not much time for that so this will be sparse. Will return with better justification later
 
 
@@ -80,7 +80,7 @@ such that $D_i$  is a CSV. W.
 
 #### Name: Problem Book Generator (PBG)
 #### Specification: Problem Book generator from dataset
-#### Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply for the wealth
+#### Design Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply for the wealth
 of AI datasets
 
 Let D_i be a dataset such that D_i is a csv(W.L.O.G of course, as it is trivial to extend D_i to other data formats) such that
@@ -136,7 +136,7 @@ from the human operator
 """
 Name: PDF Creater (PDFc)
 Specification: Outlining a good pdf
-Hypothesis: There exists a way for a mechanical machine to design a pdf such that it is just as good as foveal rea's and szegbo's
+Design Hypothesis: There exists a way for a mechanical machine to design a pdf such that it is just as good as foveal rea's and szegbo's
 given the method described in  PBG is sufficient.
 
 First, we will consider the toy model of this hypothesis, it contains no image or complex stuff to render, we will simply concern
