@@ -21,5 +21,5 @@ Elaboration: I suppose a rigorous thing to do would be to discuss what my view o
 
 Let $D_i$ be a dataset representing a finite collection of records over a set of columns $C_i$. W.L.O.G. we initially take $D_i$ to be a CSV dataset, as the representation format is not fundamental to the construction.
 Let \\
-$ R = {Q, S , T}$
-such that (D_i) is a csv. W.
+$ R = {Q, S , T} $
+such that $ D_i $  is a CSV. W.
