@@ -104,3 +104,10 @@ Let $D_i$ be a dataset representing a finite collection of records over a set of
 Let \\
 $R = {Q, S , T}$
 such that $D_i$  is a CSV. W.
+
+
+
+
+
+## Index 
+### A reference to established conventions is provided here for quick reference
