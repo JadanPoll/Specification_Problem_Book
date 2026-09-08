@@ -61,7 +61,7 @@ where I beleive necessary I elaborate on the motivation of the hypothesis itself
 
 
 
-# Functional design
+### Functional design
 
 
 
@@ -78,9 +78,9 @@ such that $D_i$  is a CSV. W.
 
 
 
-### Name: Problem Book Generator (PBG)
-### Specification: Problem Book generator from dataset
-### Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply for the wealth
+#### Name: Problem Book Generator (PBG)
+#### Specification: Problem Book generator from dataset
+#### Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply for the wealth
 of AI datasets
 
 Let D_i be a dataset such that D_i is a csv(W.L.O.G of course, as it is trivial to extend D_i to other data formats) such that
