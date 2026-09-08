@@ -11,7 +11,7 @@ After all it is no secret that the biggest advancements to human civilization ca
 would be papyrus, as developed from the reeds in Egypt to Project Gutenberg, the first printing machine. Then came academic publications, the establishment of publication megahouses and the internet which 
 democraticed knowledge for all. However up to now its no secret that despite the wonderful happenings, it does take quite some effort for one to abreast themself of any domain. 
 It still does take textbooks and quite a bit of patience and motivation to begin with. 
-However, I beleive and hope to convince the reader that with datasets, one is able to reduce these inefficeints and frictions created by the own human effort. 
+However, I beleive and hope to convince the reader that with datasets, one is able to reduce these inefficiencies and frictions to the human effort. 
 A far more effecient and persistent way of learning.
 
 
