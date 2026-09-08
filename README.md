@@ -14,12 +14,7 @@ It still does take textbooks and quite a bit of patience and motivation to begin
 However, I beleive and hope to convince the reader that with datasets, one is able to reduce these inefficeints and frictions created by the own human effort. 
 A far more effecient and persistent way of learning.
 
-"""
-Edsger Wybe Dijksra suggests one must write up the specification before attempting the solution in code for elegant code.
-A good specification must have the intellectual discipline of a mathematical proof. By refusing to be lazy and fully penning <br> down one's foreseable thoughts on the problem, 
-this prevents patch and guesswork during development. In fact, the specification should be almost like a readable and clear
-proof, the programmer must endeavor justification for the elegance of their ideas from the elegance of mathematics
-"""
+
 """
 Name: Problem Book Generator (PBG)
 Specification: Problem Book generator from dataset
