@@ -1,3 +1,17 @@
+## Introduction
+These past few years have seen the rapid proliferation of all sorts of datasets for every sort of human activity for fulfilling von Neumann's and Alan Turing's dreams, the establishment of machines that think. 
+In fact, so successful have these efforts been that man no longer doubt if machines can think in the sense of reaching their own sensibilites but how much further can they go in their thinking in assisting themselves 
+in miracles of all sorts of activity. However in this technical project I am not concerned with if the machines can think but the inverse problem. The operator of those machines. 
+I beleive that the fundamentally better the operator is, to whatever degree or domain of activity, the fundamentally more interesting activities they will be able to engage with these machines in. 
+Hence the inverse task is not if a machine can be trained on a dataset but if a human at any degree of schooling could benefit from inverting the role and training themselves on datasets.
+
+After all it is no secret that the biggest advancements to human civilization came in the form of inventions that gave a sort of persistence and democratization to thought. A short follow through 
+would be papyrus, as developed from the reeds in Egypt to Project Gutenberg, the first printing machine. Then came academic publications, the establishment of publication megahouses and the internet which 
+democraticed knowledge for all. However up to now its no secret that despite the wonderful happenings, it does take quite some effort for one to abreast themself of any domain. 
+It still does take textbooks and quite a bit of patience and motivation to begin with. 
+However, I beleive and hope to convince the reader that with datasets, one is able to reduce these inefficeints and frictions created by the own human effort. 
+A far more effecient and persistent way of learning.
+
 """
 Edsger Wybe Dijksra suggests one must write up the specification before attempting the solution in code for elegant code.
 A good specification must have the intellectual discipline of a mathematical proof. By refusing to be lazy and fully penning <br> down one's foreseable thoughts on the problem, 
