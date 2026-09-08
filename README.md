@@ -1,6 +1,6 @@
 """
 Edsger Wybe Dijksra suggests one must write up the specification before attempting the solution in code for elegant code.
-A good specification must have the intellectual discipline of a mathematical proof. By refusing to be lazy and fully penning down one's foreseable thoughts on the problem, 
+A good specification must have the intellectual discipline of a mathematical proof. By refusing to be lazy and fully penning <br> down one's foreseable thoughts on the problem, 
 this prevents patch and guesswork during development. In fact, the specification should be almost like a readable and clear
 proof, the programmer must endeavor justification for the elegance of their ideas from the elegance of mathematics
 """
