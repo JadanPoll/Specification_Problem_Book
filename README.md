@@ -50,10 +50,20 @@ efficient ability to write a proof. Often a problem book is itself most effecien
 unfamiliar laguage specific to that domain!
 
 
-"""
-Name: Problem Book Generator (PBG)
-Specification: Problem Book generator from dataset
-Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply for the wealth
+
+
+
+The specification is outline to accomplish three main things at this point, functional design, comfort of use and rigour of methodology
+For each component I beleive should be tackled, i specify a hypothesis of what I beleive should be accomplished and then establish a 
+specified way to go about it. The naming of course is for quick referencing. Because I believe one should keep a good hypothesis strong and short, for some of these components 
+where I beleive necessary I elaborate on the motivation of the hypothesis itself to constrain our thinking on what we are going for and how to go about it
+
+# Functional design
+
+
+## Name: Problem Book Generator (PBG)
+## Specification: Problem Book generator from dataset
+## Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply for the wealth
 of AI datasets
 
 Let D_i be a dataset such that D_i is a csv(W.L.O.G of course, as it is trivial to extend D_i to other data formats) such that
@@ -77,7 +87,7 @@ For each element in Q
 
 """
 
-
+# Rigour
 """
 Name: On the Wikipedia
 Specification: Proper problem topical classification
@@ -85,6 +95,14 @@ Elaboration: Here we concern ourselves with how one should get an automated mach
  natural language text correctly while address the multitudes of forseeable issues that come up
 """
 
+
+"""
+Specification: A user interface so better high level decisions can be made according to taste
+Hypothesis: There will be some pathological issues and ambiguity that will inevitably come up and require decisions 
+from the human operator
+"""
+
+# Comfort of Use
 """
 Name: PDF Creater (PDFc)
 Specification: Outlining a good pdf
@@ -113,11 +131,6 @@ it is a key deciding factor in the quality of the problem book
 
 """
 
-"""
-Specification: A user interface so better high level decisions can be made according to taste
-Hypothesis: There will be some pathological issues and ambiguity that will inevitably come up and require decisions 
-from the human operator
-"""
 
 
 
