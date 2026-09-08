@@ -15,10 +15,33 @@ However, I beleive and hope to convince the reader that with datasets, one is ab
 A far more effecient and persistent way of learning.
 
 
+## Establishing the value of a problem book
+To my mind there are quite a few values of a problem book that make it the idea realization of this goal.
+
+It is direct and effecient. The author doesnt have to profess and argument to claim to help you intriniscially understand. It is very binary, either you can solve a problem or you can't.
+However the reesult of this binary is overwhelmingly benefiical and teaches all sorts of things. One can learn from the failure, one can learn from the question density, one improves from answer density.
+One gets a sensible mind about what they know, don't know and their tacit limitations. Confidence gained etc.
+
+
 Establish the value of a problem book, for example for me, it gives one the necessary fluidity to go on and solve much harder degree of problems and tasks
 and read all sorts of papers for ones edifications. Also patches holes one isnt aware they have from a narrow, overly-optimized readding of the subject material.
 One can make progress, see the progress and not be fooled into over estimating their abilites.
-Allows for very rich though once one knows about what kind of problems are even possible, stretching one's mind.
+Allows for very rich though once one knows about what kind of problems are even possible, stretching one's mind. 
+
+
+
+The next question in order of course is what would make a good problem book. I fear at this point I may be inadequate in answering that sufficiently since my own notion of what makes 
+a good problem book changes over time. I used to think it should be hard, but that discourages much progress. But if its too easy one is bored and doesn't learn much but faster recognition.
+One can say it has to be on the edge of one's abilites but one has all sorts of abilties and they aren't even evenly distributed by topic.
+I will take the minimal invariant of these experiences and design around them, as I myself gain experience I will hopefully have some well estimated answer
+
+1. It should be spatial. The user should be easily able to determine where to go and what to do.
+2. Highlights and comments. The user should be able to evaluate their own progress. This for me comes in the form of highlghting.
+3. Extra references, this allows targeted practice in a very singled out domain.
+4. Index, this deeply reinforces 1, the user should extremely quickly be able to estimate what they don't know and what parts of the book to jump to, the user should
+not be expected to follow it in order in the hopes of happening upon a problem of marginal interest. They should not even be expected to complete it in one sitting. It should
+be such that whenver the user feels a weakness in a certain area they can quickly use the problem book as a reference to drill that specific thing. In that sense, it should be functional
+to what the user happens to need to become stronger in, not necessarily the entire domain.
 
 
 
