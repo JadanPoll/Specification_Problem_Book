@@ -15,6 +15,13 @@ However, I beleive and hope to convince the reader that with datasets, one is ab
 A far more effecient and persistent way of learning.
 
 
+Establish the value of a problem book, for example for me, it gives one the necessary fluidity to go on and solve much harder degree of problems and tasks
+and read all sorts of papers for ones edifications. Also patches holes one isnt aware they have from a narrow, overly-optimized readding of the subject material.
+One can make progress, see the progress and not be fooled into over estimating their abilites.
+Allows for very rich though once one knows about what kind of problems are even possible, stretching one's mind.
+
+
+
 """
 Name: Problem Book Generator (PBG)
 Specification: Problem Book generator from dataset
