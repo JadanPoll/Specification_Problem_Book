@@ -16,7 +16,7 @@ A far more effecient and persistent way of learning.
 
 
 ## Establishing the value of a problem book
-To my mind there are quite a few values of a problem book that make it the idea realization of this goal.
+To my mind there are quite a few values of a problem book that make it the ideal realization of this goal.
 
 It is direct and effecient. The author doesnt have to profess and argument to claim to help you intriniscially understand. It is very binary, either you can solve a problem or you can't.
 However the reesult of this binary is overwhelmingly benefiical and teaches all sorts of things. One can learn from the failure, one can learn from the question density, one improves from answer density.
