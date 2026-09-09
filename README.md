@@ -65,9 +65,9 @@ where I beleive necessary I elaborate on the motivation of the hypothesis itself
 
 
 
-Project Name: Problem Book Generator (PBG)
-Specification: 
-Design Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply from the wealth of the AI dataset.
+Project Name: Problem Book Generator (PBG) 
+Specification:  
+Design Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply from the wealth of the AI dataset. 
 Elaboration: I suppose a rigorous thing to do would be to discuss what my view of a good problem book with specific exemplary features in the scant few I've tried. Howwever, there may be not much time for that so this will be sparse. Will return with better justification later
 
 
@@ -78,8 +78,8 @@ such that $D_i$  is a CSV. W.
 
 
 
-#### Name: Problem Book Generator (PBG)
-#### Specification: Problem Book generator from dataset
+#### Name: Problem Book Generator (PBG) 
+#### Specification: Problem Book generator from dataset 
 #### Design Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply for the wealth
 of AI datasets
 
