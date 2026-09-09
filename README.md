@@ -18,6 +18,11 @@ A far more effecient and persistent way of learning.
 ## Establishing the value of a problem book
 To my mind there are quite a few values of a problem book that make it the ideal realization of this goal.
 
+About the only thing I regard as potentially better in some sense is teaching.
+Because while problem solving evaluates ones ability to recognize and apply ideas, teaching forces one to intrinsically understand ideas learned and flexibly 
+remap its formulations in the effort of communcation. In how Richard Fenyman sees it. 
+However one often doesn't teach what they don't know and because of this, the sense in which teaching might be potentially better is very limited
+
 It is direct and effecient. It is about one of the only book titles that does precisely what it says it does, precisely much of the time.
 The author doesnt have to profess and argument to claim to help you intriniscially understand. It is very binary, either you can solve a problem or you can't.
 However the reesult of this binary is overwhelmingly benefiical and teaches all sorts of things. One can learn from the failure, one can learn from the question density, one improves from answer density.
