@@ -104,7 +104,7 @@ For each element in Q
 
 """
 
-# Rigour
+### Rigour
 """
 Name: On the Wikipedia.
 A simple and clever way to determine topics for natural text. I have come to detest throwing AI and semantic relationship tools at everything, just because it can be done and its out there 
@@ -132,7 +132,7 @@ Hypothesis: There will be some pathological issues and ambiguity that will inevi
 from the human operator
 """
 
-# Comfort of Use
+### Comfort of Use
 """
 Name: PDF Creater (PDFc)
 Specification: Outlining a good pdf
