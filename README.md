@@ -133,6 +133,11 @@ from the human operator
 """
 
 ### Comfort of Use
+When you ask a user how to make a design better it usually comes with adding more fanciful gizmos and gadgets and less with deleting stuff. 
+Factor in frequency of use, ease of use.
+The first most effective design is the one that allows the user to operate nearest the speed of thought and closest to subconscious control. The second most effective of 
+design principle of course is to get the user used to something less effective than the first.
+
 """
 Name: PDF Creater (PDFc)
 Specification: Outlining a good pdf
