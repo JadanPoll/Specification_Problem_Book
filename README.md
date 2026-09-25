@@ -120,8 +120,8 @@ For each element in Q
 
 ### Rigour
 """
-Name: On the Wikipedia.
-Design Hypothesis: One can use rich knowledge bases such as wikipedia to cheaply determine topics and sub-topics for natural language texts and problems.
+Name: On the Wikipedia.  
+Design Hypothesis: One can use rich knowledge bases such as wikipedia to cheaply determine topics and sub-topics for natural language texts and problems.  
 Elaboration: I am of the view that wikipedia serves a simple and clever way to determine topics for natural text. Bitter tastes dealing with time optimization in previous projects have made  
 me rather disagreeable to throwing linear algebraic AI methods for semantic relationships at most problems, though I understand it is incredible popular and time-saving for critical thought to do so. This is in part the reason 
 for making efforts to draft up a project specification. By taking the time to outline clear motivations and answer and exposit on what is necessary, one can come up with elegant well-reasoned solutions to problems.  
