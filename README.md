@@ -85,9 +85,9 @@ Elaboration: I suppose a rigorous thing to do would be to discuss what my view o
 
 
 
-Name: Problem Book Generator (PBG) 
-Specification: Problem Book generator from dataset 
-Design Hypothesis: One can mechanically create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply from the wealth meant for the training of AI.
+Name: Problem Book Generator (PBG)  
+Specification: Problem Book generator from dataset  
+Design Hypothesis: One can mechanically create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply from the wealth of datasets meant for the training of AI.
 
 Let $D_i$ be a dataset representing a finite collection of records over a set of columns $C_i$. W.L.O.G. we may initially take $D_i$ to be a CSV dataset, as the representation format is not fundamental to the construction.
 Let a record element $R_i = {Q_i, S_i , T_i}$
