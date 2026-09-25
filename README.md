@@ -28,7 +28,7 @@ The author doesn't have to profess an argument to claim to help you intriniscial
 However the reesult of this binary is overwhelmingly beneficial and teaches all sorts of things. One can learn from the failure, one can learn from the question density, one improves from answer density.
 One gets a sensible mind about what they know, don't know and their tacit limitations. Confidence gained etc.
 
-B. It gives one the necessary fluidity and confidenc4e to go on to solve much harder degree of problems and tasks. Helps patch holes in understanding one isn't aware they have because of narrow and overly-optimized readings of subject materials.  
+B. It gives one the necessary fluidity and confidence to go on to solve much harder degree of problems and tasks. Helps patch holes in understanding one isn't aware they have because of narrow and overly-optimized readings of subject materials.  
 It can be unusually diverse, or unusually precise, or the answer unusually multi-layered or non-obvious. Like I said, you can either solve a problem or can't. One can make progress, see the progress and not be fooled into over-estimating one's abilities in a 
 domain. A bit more unusually unique is that it allows for very rich thought once one knows about what kind of problems are even possible, stretching one's mind and flexibility of application. For me, it helps me read all sorts of scholarly works and papers for  edifications without getting bogged down by the mathematics or unfamiliarity with various ideas. 
 
