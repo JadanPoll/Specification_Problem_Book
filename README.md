@@ -65,7 +65,7 @@ where I beleive necessary I elaborate on the motivation of the hypothesis itself
 
 
 
-<bold>Project Hypothesis: One can mechanically create a high quality problem book from a sufficiently rich dataset(s).</bold>
+<b>Project Hypothesis: One can mechanically create a high quality problem book from a sufficiently rich dataset(s).</b>
 
 ### Functional design
 
