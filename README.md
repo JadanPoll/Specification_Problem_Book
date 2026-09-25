@@ -1,6 +1,6 @@
 ## Introduction
 These past few years have seen the rapid proliferation of datasets for all manner of human activity, fulfilling von Neumann's and Alan Turing's dreams that the mechanical mind can do the thinkable. 
-In fact, it was not so much they dreamed it than they firmly beleived it was so. For them, the notion of machines that think was an obvious thing and that if anything, they had simply been born just a little earlier than their time, but not by much earlier. 
+In fact, it was not so much they dreamed it than they firmly believed it so. <i>For them</i>, the notion of machines that think was an obvious thing and that if anything, they had simply been born just a little earlier than their time, but not by much earlier. 
 It took quite a bit longer than they estimated, 
 necessitated by the need of datasets, the collection and creation of them, scraped together from the collective humanities works from all over the internet. 
 In fact, so successful have these efforts been that man little doubts if machines can think as compared with their own thinking abilities but how much further can they go in their thinking, assisting man  
