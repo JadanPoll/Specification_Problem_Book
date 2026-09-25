@@ -141,10 +141,10 @@ from the human operator
 """
 
 ### Comfort of Use
-When you ask a user how to make a design better it usually comes with adding more fanciful gizmos and gadgets and less with deleting stuff. 
-Factor in frequency of use, ease of use.
-The first most effective design is the one that allows the user to operate nearest the speed of thought and closest to subconscious control. The second most effective of 
-design principle of course is to get the user used to something less effective than the first.
+Ask users how to make designs better and I imagine the recommendations usually suggest adding more fanciful gizmos and gadgets, or worse, not having enough variety in option or taste to know what better even looks like, much less that there is a better.
+Because of this, over the course of working on projects I've come to develop a personal set of design principles to determine what a good UI would be for a product.
+The first most effective design principles is allowing users to operate at the speed of thought. Even if the UI may look ugly compared with all the fanciful decorations enabled out there with various LLM-assissted apps.
+The second design principle of course is to get the user used to something less effective than the first.
 
 """
 Name: PDF Creater (PDFc)
