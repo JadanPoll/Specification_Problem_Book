@@ -41,7 +41,7 @@ a good problem book changes over time. I used to think it should be hard, but th
 One can say it has to be on the edge of one's abilites but one has all sorts of abilties and they aren't even evenly distributed by topic.
 I will take the minimal invariant of these experiences and design around them, as I myself gain experience I will hopefully have some well estimated answer
 
-1. It should be spatial. The user should be easily able to determine where to go and what to do.
+1. It should be spatial. The user should be easily able to determine where to go and what to do. Decide what is relevant and what is irrelevant to them. Discover where to bootstrap themselves and where to jump to challenge themselves decidedly. 
 2. Highlights and comments. The user should be able to evaluate their own progress. This for me comes in the form of highlghting.
 3. Extra references, this allows targeted practice in a very singled out domain.
 4. Index, this deeply reinforces 1, the user should extremely quickly be able to estimate what they don't know and what parts of the book to jump to, the user should
