@@ -36,16 +36,17 @@ domain. A bit more unusually unique is that it allows for very rich thought once
 The next question in order of course is what would make a good problem book. I fear at this point I am inadequate in answering that thoroughly since my own notion of what makes 
 a good problem book changes over time. I used to think it should be hard, but then that discourages much progress, limits what one can learn and its applicabilities. But if its too easy one's mind is easily bored and doesn't learn much but faster recognition and
 rote execution. Of course, for you these may be desirable. One can say it has to be on the edge of one's abilities but one comes with all sorts of abilities and they aren't even evenly distributed by topic.
-I will take the minimal invariant of these experiences and design around them, as I myself gain experience I will eventually have some well estimated answer.
+I will take the minimal invariant of these experiences and design around them, as I myself gain experience I will eventually have some well estimated answer.  
 
-1. It should be spatial. The user should be easily able to determine where to go and what to do. Decide what is relevant and what is irrelevant to them. Discover where to bootstrap themselves and where to jump to challenge themselves decidedly. 
+A good problem book...
+1. Should be spatial. The user should be easily able to determine where to go and what to do. Decide what is relevant and what is irrelevant to them. Discover where to bootstrap themselves and where to jump to challenge themselves decidedly. 
 2. Highlights and comments. The user should be able to evaluate their own progress. This for me comes in the form of highlghting.
 3. Extra references. This allows for targeted practices and readings in a singular domain or sub-domains.
 4. Indexes and glossaries. This deeply reinforces 1, the user should extremely quickly be able to estimate what they don't know and what parts of the book to jump to, the user should
 not be expected to follow it in order in the hopes of happening upon a problem of marginal interest. They should not even be expected to complete it in one sitting. It should
 be such that whenver the user feels a weakness in a certain area they can quickly use the problem book as a reference to drill that specific thing. In that sense, it should be functional
 to what the user happens to need to become stronger in, not necessarily the entire domain.
-5. Completeness: This is the North star and ambitious goal of anything i beleive to be a good problem book. It itself should be a curriculm. That is, it isnt
+5. Endeavors to be complete: This is the North star and ambitious goal of anything i beleive to be a good problem book. It itself should be a curriculm. That is, it isnt
 impossible for one to learn the entire domain or sub-domain to practical ability simply with the book. The key is practical ability, I don't beleive one can establish the theoretical rigour
 fro a problem book since its very statistically updating in ones abilites rather than thoroughly telling one about a subject. For example, in certain domains like proofs in mathematics, while
 practice it ultimately the more valuable thing, the formalism and whys aren't easily learned through practice since solving a proof, even with lots of practice by no means confers on one the
