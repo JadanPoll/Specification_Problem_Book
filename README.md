@@ -146,7 +146,10 @@ Because of this, over the course of working on projects I've come to develop a p
 The first most effective design principle* is allowing users to operate at the speed of thought. Even if the UI may look ugly compared with all the fanciful decorations enabled out there with various LLM-assissted apps.
 The second design principle of course is to get the user used to something less effective than the first.
 
-<sub> My first effective principle for *functional design* is that it should be useful enough that it causes repeated and enduring use. </sub>
+<sub>* My first effective principle for *functional design* is that it should be useful enough that it causes repeated and enduring use. </sub>  
+
+
+
 """
 Name: PDF Creater (PDFc)
 Specification: Outlining a good pdf
