@@ -1,18 +1,16 @@
 ## Introduction
-These past few years have seen the rapid proliferation of all sorts of datasets for every sort of human activity for fulfilling von Neumann's and Alan Turing's dreams. In fact, it was not so much they dreamed it than 
-they firmly beleived it was so. For them, the notion of machines that think was an obvious thing if not they had simply been born just a little later than their time. It took quite a bit longer than they estimated, 
+These past few years have seen the rapid proliferation of datasets for all manner of human activity, fulfilling von Neumann's and Alan Turing's dreams that the mechanical mind can do the thinkable. In fact, it was not so much they dreamed it than 
+they firmly beleived it was so. For them, the notion of machines that think was an obvious thing and that if anything, they had simply been born just a little earlier than their time, but not by much earlier. It took quite a bit longer than they estimated, 
 necessitated by the need of datasets, the collection and creation of them, scraped together from the collective humanities works from all over the internet. 
 In fact, so successful have these efforts been that man no longer doubt if machines can think in the sense of reaching their own sensibilites but how much further can they go in their thinking in assisting themselves 
-in miracles of all sorts of activity. However in this technical project I am not concerned with if the machines can think but the inverse problem. The operator of those machines. 
-I beleive that the fundamentally better the operator is, to whatever degree or domain of activity, the fundamentally more interesting activities they will be able to engage with these machines in. 
-Hence the inverse task is not if a machine can be trained on a dataset but if a human at any degree of schooling could benefit from inverting the role and training themselves on datasets.
+in all sorts of miraculous works. However in this technical project I am not concerned with if the machines can think but ponder the inverse problem. The operator of those machines. 
+I believe that the fundamentally better the operator is, to whatever degree or domain of activity, the fundamentally more interesting activities they will be able to engage with these exciting machines in. 
+To define the inverse task, it is not if a machine can be trained on a dataset but if a human at any degree of schooling could benefit from inverting the role and training themselves on datasets.
 
-After all it is no secret that the biggest advancements to human civilization came in the form of inventions that gave a sort of persistence and democratization to thought. A short follow through 
-would be papyrus, as developed from the reeds in Egypt to Project Gutenberg, the first printing machine. Then came academic publications, the establishment of publication megahouses and the internet which 
-democraticed knowledge for all. However up to now its no secret that despite the wonderful happenings, it does take quite some effort for one to abreast themself of any domain. 
+After all it is no secret that the biggest advancements to human civilization came in the form of inventions that gave a sort of persistence, compilation, crystalization and democratization to thought. 
+In a brief historical aside consider the progression of development from papyrus, born from the reeds in Egypt to Project Gutenberg, the first printing machine. Then came academic publications, the establishment of publication mega-houses and the internet. These accelerated progressions democratized knowledge, both depth and unusually amounts of breadth for all. However, despite the wonderful happenings, it does take quite some effort for one to abreast themselves of any domain.  
 It still does take textbooks and quite a bit of patience and motivation to begin with. 
-However, I beleive and hope to convince the reader that with datasets, one is able to reduce these inefficiencies and frictions to the human effort. 
-A far more effecient and persistent way of learning.
+By this work, I hope to convince the reader that through datasets, one is able to reduce these inefficiencies and frictions to the human effort of learning. In short, a far more efficient and persistent way of learning.
 
 
 ## Establishing the value of a problem book
