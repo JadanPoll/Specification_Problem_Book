@@ -13,6 +13,7 @@ Forgive me for the brief historical aside, but it is common to knowledge that th
 By this work, I hope to convince the reader that through datasets, one is able to reduce these inefficiencies and frictions to the human effort of learning.  
 In short, demonstrate a far more efficient and persistent way of learning through automated generation of problem books and glossaries*.
 
+<sub> * It has occurred to me that in order to operate at an effective speed-of-thought, glossaries for jumping around subjects is a very ingenious necessity </sub>
 
 ## Establishing the value of a problem book
 To my mind there are quite a few values of a problem book that make it the ideal realization of this goal.
