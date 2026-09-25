@@ -4,7 +4,7 @@ In fact, it was not so much they dreamed it than they firmly beleived it was so.
 It took quite a bit longer than they estimated, 
 necessitated by the need of datasets, the collection and creation of them, scraped together from the collective humanities works from all over the internet. 
 In fact, so successful have these efforts been that man little doubts if machines can think as compared with their own thinking abilities but how much further can they go in their thinking, assisting man  
-in all sorts of miraculous works. 
+in all sorts of miraculous works.  
 In this technical project however, I am not concerned with if the machines can think but ponder the inverse problem. The operator of those machines. 
 I believe that the fundamentally better the operator is, to whatever degree or domain of activity, the fundamentally more interesting activities they will be able to engage with these exciting machines in. 
 To define the inverse task, it is not if a machine can be trained on a dataset but if a human at any degree of schooling could benefit from inverting the role and training themselves on datasets.
