@@ -151,10 +151,10 @@ The second design principle of course is to get the user used to something less 
 
 
 """
-Name: PDF Creater (PDFc)
-Specification: Outlining a good pdf
+Name: PDF Creater (PDFc)  
+Specification: Outlining a good pdf  
 Design Hypothesis: There exists a way for a mechanical machine to design a pdf such that it is just as good as foveal rea's and szegbo's
-given the method described in  PBG is sufficient.
+given the method described in  PBG is sufficient.  
 
 First, we will consider the toy model of this hypothesis, it contains no image or complex stuff to render, we will simply concern
 ourself with text.
