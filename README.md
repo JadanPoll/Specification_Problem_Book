@@ -90,14 +90,13 @@ Specification: Problem Book generator from dataset
 Design Hypothesis: One can mechanically create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply from the wealth meant for the training of AI.
 
 Let $D_i$ be a dataset representing a finite collection of records over a set of columns $C_i$. W.L.O.G. we may initially take $D_i$ to be a CSV dataset, as the representation format is not fundamental to the construction.
-Let \\
-$R = {Q, S , T}$
-such that $D_i$  is a CSV. W.
+Let a record element $R_i = {Q_i, S_i , T_i}$
+such that $D_i$  is a CSV. W.  
+
+Now since we obviously don't know what the column would be called exactly we need an interface so the user can match and assign them correclty
 
 Let D_i be a dataset such that D_i is a csv(W.L.O.G of course, as it is trivial to extend D_i to other data formats) such that
 D_i has for example the following columns of value. Question column, answer column(with thoughts and final answer), topic etc.
-Now given we obviously dont know what the column would exactly be called we should have interface I so the user U can match 
-and filter them correctly.
 
 There are three kinds of semantic columns classes that are relevant to us, we will call this relevant set R, 
 for now we define a conventient R such that R has for elements {Question/Problem, Solution, Topic}. There may be more valuable stuff that 
@@ -113,9 +112,14 @@ So now we can extract elements $D_Q$, $D_S$, $D_T$, because it is unlikely we wo
 better we shall only concern ourselves with $D_Q$ and $D_S$., of course this referes to the question set $Q$ of $D$ and solution set $S$ of 
 $D$.
 
-For each element in Q
+For each element $R_i$ in $R$, for each question element $Q_i$ in $R_i$, we can extract an unordered collection of words $w_0, w_1, w_2, w_2, w_3 \cdots w_N$ that make up $Q_i$, we can  
+then use this collection to perform a search two do two things,  
+a. group it with other related questions. Any two $Q_i$ element pairs $q_i, q_j$ are said to be related if one would reasonably put them under the same proposed topic.  
+b. Identify the ideal topic and super-topics for this grouping.
 
-
+Now because it is very likely the the question set might underdetermine a topic we can generalize these ideas to include the answers and even the thoughts as well as <i>extended bags of words</i>. helping for a significant improvement in robustness of classification.  
+Ruefully one of the enduring pains of mechanizing the english natural language is there are quite a lot of filler and glue words that don't uniquely determine anything with regards to a topic, <i>des artikels, the, of, and, but ...</i> for example. So we need some  
+sensibilities in filtering out this noise. There are various obvious ideas for doing this but I hope to do this from a well-reasoned mathematical grounds. For this reason, i will for a bit appeal to some ideas from Shannon's entropy. Claude
 
 ### Rigour
 
