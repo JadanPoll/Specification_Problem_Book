@@ -82,17 +82,17 @@ Design Hypothesis: One can mechanically create a high quality prob create an ext
 Elaboration: I suppose a rigorous thing to do would be to discuss what my view of a good problem book with specific exemplary features in the scant few I've tried. Howwever, there may be not much time for that so this will be sparse. Will return with better justification later
 
 
-Let $D_i$ be a dataset representing a finite collection of records over a set of columns $C_i$. W.L.O.G. we initially take $D_i$ to be a CSV dataset, as the representation format is not fundamental to the construction.
+
+
+
+Name: Problem Book Generator (PBG) 
+Specification: Problem Book generator from dataset 
+Design Hypothesis: One can mechanically create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply from the wealth meant for the training of AI.
+
+Let $D_i$ be a dataset representing a finite collection of records over a set of columns $C_i$. W.L.O.G. we may initially take $D_i$ to be a CSV dataset, as the representation format is not fundamental to the construction.
 Let \\
 $R = {Q, S , T}$
 such that $D_i$  is a CSV. W.
-
-
-
-#### Name: Problem Book Generator (PBG) 
-#### Specification: Problem Book generator from dataset 
-#### Design Hypothesis: One can create an extremely high quality problem book on the order of Polya, or Foveal Rea books simply for the wealth
-of AI datasets
 
 Let D_i be a dataset such that D_i is a csv(W.L.O.G of course, as it is trivial to extend D_i to other data formats) such that
 D_i has for example the following columns of value. Question column, answer column(with thoughts and final answer), topic etc.
@@ -103,12 +103,15 @@ There are three kinds of semantic columns classes that are relevant to us, we wi
 for now we define a conventient R such that R has for elements {Question/Problem, Solution, Topic}. There may be more valuable stuff that 
 we discover should be in R later on, if that's the case, we will return and admit it as an element to R.
 
-Given dataset D_i, for each of its matched columns, given out elements R we will have D_iq, D_is, D_it, for brevity, we will
-now refer to D_i as the primary data set D. D can be one dataset or multiple datasets.
 
-So now we can extract elements D_Q, D_S, D_T, because it is unlikely we would be so lucky as to ahve a D_t to generalize this
-better we shall only concern ourselves with D_Q and D_S., of course this referes to the question set Q of D and solution set S of 
-D.
+
+
+Given dataset D_i, for each of its matched columns, given out elements R we will have $D_iq$, $D_is$, $D_it$, for brevity, we will
+now refer to $D_i$ as the primary data set $D$. $D$ can be one dataset or multiple datasets.
+
+So now we can extract elements $D_Q$, $D_S$, $D_T$, because it is unlikely we would be so lucky as to have a D_t to generalize this
+better we shall only concern ourselves with $D_Q$ and $D_S$., of course this referes to the question set $Q$ of $D$ and solution set $S$ of 
+$D$.
 
 For each element in Q
 
@@ -118,12 +121,12 @@ For each element in Q
 ### Rigour
 """
 Name: On the Wikipedia.
-A simple and clever way to determine topics for natural text. I have come to detest throwing AI and semantic relationship tools at everything, just because it can be done and its out there 
-That's part of the reason for creating this specification. By taking the time to outline the clear motivations and what is necessary, one can come up with elegant solutions rather than throwing 
-overly powerful but slower and unncessary solutions at the problem
-Specification: Proper problem topical classification
-Elaboration: Here we concern ourselves with how one should get an automated machine to classify problem from
- natural language text correctly while address the multitudes of forseeable issues that come up
+Design Hypothesis: One can use rich knowledge bases such as wikipedia to cheaply determine topics and sub-topics for natural language texts and problems.
+Elaboration: I am of the view that wikipedia serves a simple and clever way to determine topics for natural text. Bitter tastes dealing with time optimization in previous projects have made  
+me rather disagreeable to throwing linear algebraic AI methods for semantic relationships at most problems, though I understand it is incredible popular and time-saving for critical thought to do so. This is in part the reason 
+for making efforts to draft up a project specification. By taking the time to outline clear motivations and answer and exposit on what is necessary, one can come up with elegant well-reasoned solutions to problems.  
+Here we concern ourselves with getting an automated machine assign admissible topics to problem texts as well as grouping them while address the multitudes of forseable issues that might come up.  
+
 
 
 
