@@ -1,6 +1,7 @@
 ## Introduction
-These past few years have seen the rapid proliferation of datasets for all manner of human activity, fulfilling von Neumann's and Alan Turing's dreams that the mechanical mind can do the thinkable. In fact, it was not so much they dreamed it than 
-they firmly beleived it was so. For them, the notion of machines that think was an obvious thing and that if anything, they had simply been born just a little earlier than their time, but not by much earlier. It took quite a bit longer than they estimated, 
+These past few years have seen the rapid proliferation of datasets for all manner of human activity, fulfilling von Neumann's and Alan Turing's dreams that the mechanical mind can do the thinkable. 
+In fact, it was not so much they dreamed it than they firmly beleived it was so. For them, the notion of machines that think was an obvious thing and that if anything, they had simply been born just a little earlier than their time, but not by much earlier. 
+It took quite a bit longer than they estimated, 
 necessitated by the need of datasets, the collection and creation of them, scraped together from the collective humanities works from all over the internet. 
 In fact, so successful have these efforts been that man no longer doubt if machines can think in the sense of reaching their own sensibilites but how much further can they go in their thinking in assisting themselves 
 in all sorts of miraculous works. However in this technical project I am not concerned with if the machines can think but ponder the inverse problem. The operator of those machines. 
