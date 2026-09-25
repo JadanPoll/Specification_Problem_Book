@@ -33,10 +33,10 @@ It can be unusually diverse, or unusually precise, or the answer unusually multi
 domain. A bit more unusually unique is that it allows for very rich thought once one knows about what kind of problems are even possible, stretching one's mind and flexibility of application. For me, it helps me read all sorts of scholarly works and papers for  edifications without getting bogged down by the mathematics or unfamiliarity with various ideas. 
 
 
-The next question in order of course is what would make a good problem book. I fear at this point I may be inadequate in answering that sufficiently since my own notion of what makes 
-a good problem book changes over time. I used to think it should be hard, but that discourages much progress. But if its too easy one is bored and doesn't learn much but faster recognition.
-One can say it has to be on the edge of one's abilites but one has all sorts of abilties and they aren't even evenly distributed by topic.
-I will take the minimal invariant of these experiences and design around them, as I myself gain experience I will hopefully have some well estimated answer
+The next question in order of course is what would make a good problem book. I fear at this point I am inadequate in answering that thoroughly since my own notion of what makes 
+a good problem book changes over time. I used to think it should be hard, but then that discourages much progress, limits what one can learn and its applicabilities. But if its too easy one's mind is easily bored and doesn't learn much but faster recognition and
+rote execution. Of course, for you these may be desirable. One can say it has to be on the edge of one's abilities but one comes with all sorts of abilities and they aren't even evenly distributed by topic.
+I will take the minimal invariant of these experiences and design around them, as I myself gain experience I will eventually have some well estimated answer.
 
 1. It should be spatial. The user should be easily able to determine where to go and what to do. Decide what is relevant and what is irrelevant to them. Discover where to bootstrap themselves and where to jump to challenge themselves decidedly. 
 2. Highlights and comments. The user should be able to evaluate their own progress. This for me comes in the form of highlghting.
