@@ -46,12 +46,11 @@ A good problem book...
 not be expected to follow it in order in the hopes of happening upon a problem of marginal interest. They should not even be expected to complete it in one sitting. It should
 be such that whenver the user feels a weakness in a certain area they can quickly use the problem book as a reference to drill that specific thing. In that sense, it should be functional
 to what the user happens to need to become stronger in, not necessarily the entire domain.
-5. Endeavors to be complete: This is the North star and ambitious goal of anything i beleive to be a good problem book. It itself should be a curriculm. That is, it isnt
-impossible for one to learn the entire domain or sub-domain to practical ability simply with the book. The key is practical ability, I don't beleive one can establish the theoretical rigour
-fro a problem book since its very statistically updating in ones abilites rather than thoroughly telling one about a subject. For example, in certain domains like proofs in mathematics, while
-practice it ultimately the more valuable thing, the formalism and whys aren't easily learned through practice since solving a proof, even with lots of practice by no means confers on one the
-efficient ability to write a proof. Often a problem book is itself most effecient when one has minimal contact with the domain of interest so they dont waste time and get discourage simply by the
-unfamiliar laguage specific to that domain!
+5. Endeavors to be topically complete. This is the North star and ambitious goal of anything I beleive to be an unusually good problem book. It itself should be the curriculum. That is, it isnt
+impossible for one to learn the entire domain or sub-domain to practical ability simply through thorough engagement with the book. Keyword is practical ability, I have not seen cause to believe it possible
+for one to establish deep and fundamental the theoretical rigor solely from a pure problem book since its very statistically updating in ones abilites rather than thoroughly telling one about a subject.
+For example, in certain domains like proofs in mathematics, while practice it ultimately the more valuable thing, the formalisms and whys aren't easily learned through practice since solving a proof, even with lots of practice by no means confers on one the
+efficient ability to write a proof. Often a problem book is itself most efficient when one has at least minimal contact with the domain of interest so they don't waste time and get discouraged simply by the unfamiliar language specific to that domain!
 
 
 
