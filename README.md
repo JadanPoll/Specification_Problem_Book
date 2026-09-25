@@ -116,10 +116,10 @@ $D$.
 For each element in Q
 
 
-"""
 
 ### Rigour
-"""
+
+
 Name: On the Wikipedia.  
 Design Hypothesis: One can use rich knowledge bases such as wikipedia to cheaply determine topics and sub-topics for natural language texts and problems.  
 Elaboration: I am of the view that wikipedia serves a simple and clever way to determine topics for natural text. Bitter tastes dealing with time optimization in previous projects have made  
@@ -127,7 +127,7 @@ me rather disagreeable to throwing linear algebraic AI methods for semantic rela
 for making efforts to draft up a project specification. By taking the time to outline clear motivations and answer and exposit on what is necessary, one can come up with elegant well-reasoned solutions to problems.  
 Here we concern ourselves with getting an automated machine assign admissible topics to problem texts as well as grouping them while address the multitudes of forseable issues that might come up.  
 
-
+Suppose from $D$ we select a problem $Q_i$ and its answer $A_i$,
 
 
 """
