@@ -1,5 +1,5 @@
 ## Introduction
-These past few years have seen the rapid proliferation of datasets for all manner of human activity, fulfilling von Neumann's and Alan Turing's dreams that the mechanical mind can do the thinkable. 
+<i>These past few years</i> have seen the rapid proliferation of datasets for all manner of human activity, fulfilling von Neumann's and Alan Turing's dreams that the mechanical mind can do the thinkable. 
 In fact, it was not so much they dreamed it than they firmly believed it so. <i>For them</i>, the notion of machines that think was an obvious thing and thought if anything, they had simply been born just a little earlier than their time, but not by much earlier. 
 It took quite a bit longer than they estimated, 
 necessitated by the need of datasets, the collection and creation of them, scraped together from the collective works of man from all over the internet. 
