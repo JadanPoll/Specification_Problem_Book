@@ -11,7 +11,7 @@ To define the inverse task, one cares not that a machine can be trained on a dat
 
 Forgive me for the brief historical aside, but it is common to knowledge that the biggest advancements to human civilization came in the form of inventions that gave a sort of persistence, compilation, crystalization and democratization to thought. The progression of development from papyrus, born from the reeds in Egypt to Project Gutenberg, the first printing machine is enormously consequential in the development of our science, arts and literature. Then came academic publications, publication mega-houses for all manner of distributing journals and annals and compiled thought and currently the internet. These accelerated progressions democratized knowledge, both depth and unusual breadths for all. However, despite the wondrous happenings, it does take quite some effort for one to abreast themselves of any domain. Textbooks are the effective compressed default but it takes quite a bit of patience and motivation to begin with. 
 By this work, I hope to convince the reader that through datasets, one is able to reduce these inefficiencies and frictions to the human effort of learning.  
-In short, demonstrate a far more efficient and persistent way of learning.
+In short, demonstrate a far more efficient and persistent way of learning through automated generation of problem books and glossaries*.
 
 
 ## Establishing the value of a problem book
