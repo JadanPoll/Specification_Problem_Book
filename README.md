@@ -143,9 +143,10 @@ from the human operator
 ### Comfort of Use
 Ask users how to make designs better and I imagine the recommendations usually suggest adding more fanciful gizmos and gadgets, or worse, not having enough variety in option or taste to know what better even looks like, much less that there is a better.
 Because of this, over the course of working on projects I've come to develop a personal set of design principles to determine what a good UI would be for a product.
-The first most effective design principles is allowing users to operate at the speed of thought. Even if the UI may look ugly compared with all the fanciful decorations enabled out there with various LLM-assissted apps.
+The first most effective design principle* is allowing users to operate at the speed of thought. Even if the UI may look ugly compared with all the fanciful decorations enabled out there with various LLM-assissted apps.
 The second design principle of course is to get the user used to something less effective than the first.
 
+<sub> My first effective principle for *functional design* is that it should be useful enough that it causes repeated and enduring use. </sub>
 """
 Name: PDF Creater (PDFc)
 Specification: Outlining a good pdf
