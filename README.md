@@ -56,9 +56,10 @@ efficient ability to write a proof. Often a problem book is itself most efficien
 
 
 
-The specification is outline to accomplish three main things at this point, functional design, comfort of use and rigour of methodology. As of right now, I feel this split as an akward way to go about it 
+
+The specification is outline to accomplish three things. Functional design, comfort of use and rigour of methodology. As of right now, I feel this split as an akward way to go about it 
 since the project doesnt really work till you have all of the components as a whole
-For each component I beleive should be tackled, i specify a hypothesis of what I beleive should be accomplished and then establish a 
+For each component I believe should be tackled, i specify a hypothesis of what I beleive should be accomplished and then establish a 
 specified way to go about it. The naming of course is for quick referencing. Because I believe one should keep a good hypothesis strong and short, for some of these components 
 where I beleive necessary I elaborate on the motivation of the hypothesis itself to constrain our thinking on what we are going for and how to go about it.
 
