@@ -43,8 +43,8 @@ I will take the minimal invariant of these experiences and design around them, a
 
 1. It should be spatial. The user should be easily able to determine where to go and what to do. Decide what is relevant and what is irrelevant to them. Discover where to bootstrap themselves and where to jump to challenge themselves decidedly. 
 2. Highlights and comments. The user should be able to evaluate their own progress. This for me comes in the form of highlghting.
-3. Extra references, this allows targeted practice in a very singled out domain.
-4. Index, this deeply reinforces 1, the user should extremely quickly be able to estimate what they don't know and what parts of the book to jump to, the user should
+3. Extra references. This allows for targeted practices and readings in a singular domain or sub-domains.
+4. Indexes and glossaries. This deeply reinforces 1, the user should extremely quickly be able to estimate what they don't know and what parts of the book to jump to, the user should
 not be expected to follow it in order in the hopes of happening upon a problem of marginal interest. They should not even be expected to complete it in one sitting. It should
 be such that whenver the user feels a weakness in a certain area they can quickly use the problem book as a reference to drill that specific thing. In that sense, it should be functional
 to what the user happens to need to become stronger in, not necessarily the entire domain.
