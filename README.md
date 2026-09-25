@@ -61,9 +61,12 @@ The specification is outline to accomplish three things. Functional design, comf
 since the project doesnt really work till you have all of the components as a whole
 For each component I believe should be tackled, i specify a hypothesis of what I beleive should be accomplished and then establish a 
 specified way to go about it. The naming of course is for quick referencing. Because I believe one should keep a good hypothesis strong and short, for some of these components 
-where I beleive necessary I elaborate on the motivation of the hypothesis itself to constrain our thinking on what we are going for and how to go about it.
+where I believe necessary I elaborate on the motivation of the hypothesis itself to constrain our thinking on what we are going for and how to go about it.  
 
 
+
+
+        
 
 <b>Project Hypothesis: One can mechanically create a high quality problem book from a sufficiently rich dataset(s).</b>
 
