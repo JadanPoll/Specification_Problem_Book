@@ -6,8 +6,8 @@ necessitated by the need of datasets, the collection and creation of them, scrap
 In fact, so successful have these efforts been that man little doubts if machines can think as compared with their own thinking abilities but how much further can they go in their thinking, assisting man  
 in all sorts of miraculous works.  
 In this technical project however, I am not concerned with if the machines can think but ponder the inverse problem. The operator of those machines. 
-I believe that the fundamentally better the operator is, to whatever degree or domain of activity, the fundamentally more interesting activities they will be able to engage with these exciting machines in. 
-To define the inverse task, it is not if a machine can be trained on a dataset but if a human at any degree of schooling could benefit from inverting the role and training themselves on datasets.
+The fundamentally better the operator is, to whatever degree or domain of activity, the fundamentally more interesting and ambitious of activities they will be able to engage with these exciting machines in.  
+To define the inverse task, one cares not that a machine can be trained on a dataset like Alex Krizhevsky did with NVIDIA Gpus on ImageNet in his bedroom but if a human at any degree of schooling could retreat to their solace for a weekend and benefit from inverting the role and training themselves on datasets.
 
 After all it is no secret that the biggest advancements to human civilization came in the form of inventions that gave a sort of persistence, compilation, crystalization and democratization to thought. 
 In a brief historical aside consider the progression of development from papyrus, born from the reeds in Egypt to Project Gutenberg, the first printing machine. Then came academic publications, the establishment of publication mega-houses and the internet. These accelerated progressions democratized knowledge, both depth and unusually amounts of breadth for all. However, despite the wonderful happenings, it does take quite some effort for one to abreast themselves of any domain.  
