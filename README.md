@@ -41,14 +41,14 @@ rote execution. Of course, for you these may be desirable. One can say it has to
 I will take the minimal invariant of these experiences and design around them, as I myself gain experience I will eventually have some well estimated answer.  
 
 A good problem book...
-1. Should be spatial. The user should be easily able to determine where to go and what to do. Decide what is relevant and what is irrelevant to them. Discover where to bootstrap themselves and where to jump to challenge themselves decidedly. 
-2. Highlights and comments. The user should be able to evaluate their own progress. This for me comes in the form of highlghting.
-3. contains external references. This allows for targeted practices and readings in a singular domain or sub-domains as well as more broad familiarization(like linking a topic to wikipedia or grokipedia)
-4. Indexes and glossaries. This deeply reinforces spatial navigation mention earlier, the user should extremely quickly be able to estimate what they don't know and what parts of the book to jump to, the user should
+1. <i>Should be spatial</i>. The user should be easily able to determine where to go and what to do. Decide what is relevant and what is irrelevant to them. Discover where to bootstrap themselves and where to jump to challenge themselves decidedly. 
+2. <i>Highlights and comments</i>. The user should be able to evaluate their own progress. This for me comes in the form of highlghting.
+3. <i>Contains external references</i>. This allows for targeted practices and readings in a singular domain or sub-domains as well as more broad familiarization(like linking a topic to wikipedia or grokipedia)
+4. <i>Indexes and glossaries</i>. This deeply reinforces spatial navigation mention earlier, the user should extremely quickly be able to estimate what they don't know and what parts of the book to jump to, the user should
 not be expected to follow it in order in the hopes of happening upon a problem of marginal interest. They should not even be expected to complete it in one sitting. It should
 be such that whenver the user feels a weakness in a certain area they can quickly use the problem book as a reference to drill that specific thing. In that sense, it should be functional
 to what the user happens to need to become stronger in, not necessarily the entire domain.
-5. Endeavors to be topically complete. This is the North star and ambitious goal of anything I beleive to be an unusually good problem book. It itself should be the curriculum. That is, it isnt
+5. <i>Endeavors to be topically complete</i>. This is the North star and ambitious goal of anything I beleive to be an unusually good problem book. It itself should be the curriculum. That is, it isnt
 impossible for one to learn the entire domain or sub-domain to practical ability simply through thorough engagement with the book. Keyword is practical ability, I have not seen cause to believe it possible
 for one to establish deep and fundamental the theoretical rigor solely from a pure problem book since its very statistically updating in ones abilites rather than thoroughly telling one about a subject.
 For example, in certain domains like proofs in mathematics, while practice it ultimately the more valuable thing, the formalisms and whys aren't easily learned through practice since solving a proof, even with lots of practice by no means confers on one the
