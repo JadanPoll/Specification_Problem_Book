@@ -16,7 +16,7 @@ In short, demonstrate a far more efficient and persistent way of learning throug
 <sub> * It has occurred to me that in order to operate at an effective speed-of-thought, glossaries for jumping around subjects is a very ingenious necessity </sub>
 
 ## Establishing the value of a problem book
-To my mind there are quite a few values of a problem book that make it the ideal realization of this goal.
+To my mind there are quite a few desirable values of a problem book that make it the ideal realization of this goal.
 
 About the only thing I regard as potentially better in some sense is teaching.
 Because while problem solving evaluates ones ability to recognize and apply ideas, teaching forces one to intrinsically understand ideas learned and flexibly 
