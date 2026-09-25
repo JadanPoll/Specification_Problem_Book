@@ -127,7 +127,7 @@ me rather disagreeable to throwing linear algebraic AI methods for semantic rela
 for making efforts to draft up a project specification. By taking the time to outline clear motivations and answer and exposit on what is necessary, one can come up with elegant well-reasoned solutions to problems.  
 Here we concern ourselves with getting an automated machine assign admissible topics to problem texts as well as grouping them while address the multitudes of forseable issues that might come up.  
 
-Suppose from $D$ we select a problem $Q_i$ and its answer $A_i$,
+Suppose from $D$ we select a problem $Q_i$ and its answer $A_i$, $S={Q_i, A_i}
 
 
 """
